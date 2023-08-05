@@ -1,6 +1,12 @@
 # iPad Stand Sun Shade
 
-We made this out of the [MakerBeam][] brand of 10mm extruded aluminium because we had it available, but there's no reason why you couldn't make something of the same or similar design out of other materials.
+_by Dave Plummer and Rob Wells_
+
+One of us ([Dave Plummer](https://www.facebook.com/dave.plummer.sax/)) uses an iPad on a stand while playing at events. However, in sunlight the iPad can overheat and shut down. We set out to design a structure that could be attached to the stand, covered with some kind of material, and shield the iPad from sunlight.
+
+![iPad stand sun shade diagram](iPad-shade.svg)
+
+We made the structure out of the [MakerBeam][] brand of 10mm extruded aluminium because we had it available, but there's no reason why you couldn't make something of the same or similar design out of other materials.
 
 The links below go to the UK distributor of MakerBeam products, Technobots; if you live elsewhere see the [official MakerBeam website][official] for purchase information.
 
