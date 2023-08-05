@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="2125.984" height="1275.591" viewBox="0, 0, 2125.984, 1275.591">
+  <defs>
+    <pattern id="Pattern_1" patternUnits="userSpaceOnUse" x="198.425" y="1019.819" width="48" height="48" patternTransform="matrix(0.177, 0.177, -0.177, 0.177, 0, 0)">
+      <g transform="translate(0, -0)">
+        <path d="M12,0 L16,0 L16,48 L12,48 L12,0 z" fill="#000000"/>
+        <path d="M28,0 L32,0 L32,48 L28,48 L28,0 z" fill="#000000"/>
+        <path d="M44,0 L48,0 L48,48 L44,48 L44,0 z" fill="#000000"/>
+      </g>
+    </pattern>
+    <pattern id="Pattern_2" patternUnits="userSpaceOnUse" x="1020.473" y="1019.819" width="48" height="48" patternTransform="matrix(0.177, 0.177, -0.177, 0.177, 0, 0)">
+      <g transform="translate(0, -0)">
+        <path d="M12,0 L16,0 L16,48 L12,48 L12,0 z" fill="#000000"/>
+        <path d="M28,0 L32,0 L32,48 L28,48 L28,0 z" fill="#000000"/>
+        <path d="M44,0 L48,0 L48,48 L44,48 L44,0 z" fill="#000000"/>
+      </g>
+    </pattern>
+    <pattern id="Pattern_3" patternUnits="userSpaceOnUse" x="1530.709" y="1077.819" width="48" height="48" patternTransform="matrix(0.177, 0.177, -0.177, 0.177, 0, 0)">
+      <g transform="translate(0, -0)">
+        <path d="M12,0 L16,0 L16,48 L12,48 L12,0 z" fill="#000000"/>
+        <path d="M28,0 L32,0 L32,48 L28,48 L28,0 z" fill="#000000"/>
+        <path d="M44,0 L48,0 L48,48 L44,48 L44,0 z" fill="#000000"/>
+      </g>
+    </pattern>
+    <pattern id="Pattern_4" patternUnits="userSpaceOnUse" x="1559.055" y="283.465" width="70" height="80" patternTransform="matrix(0.354, 0.354, -0.354, 0.354, 0, 0)">
+      <g transform="translate(0, 0)">
+        <path d="M-0,10 L70,10 L70,12 L-0,12 L-0,10 z" fill="#000000"/>
+        <path d="M-0,30 L70,30 L70,32 L-0,32 L-0,30 z" fill="#000000"/>
+        <path d="M-0,50 L70,50 L70,52 L-0,52 L-0,50 z" fill="#000000"/>
+        <path d="M-0,70 L70,70 L70,72 L-0,72 L-0,70 z" fill="#000000"/>
+      </g>
+    </pattern>
+  </defs>
+  <g id="Frame">
+    <g id="Beams">
+      <g>
+        <path d="M255.118,143.386 L1105.512,143.386 L1105.512,171.732 L255.118,171.732 L255.118,143.386 z" fill="#CBCBCB"/>
+        <path d="M1105.512,143.386 L1105.512,171.732 L255.118,171.732 L255.118,143.386 L1105.512,143.386 z M1104.512,144.386 L256.118,144.386 L256.118,170.732 L1104.512,170.732 L1104.512,144.386 z" fill="#000000"/>
+      </g>
+      <g>
+        <path d="M226.772,171.732 L255.118,171.732 L255.118,738.661 L226.772,738.661 L226.772,171.732 z" fill="#CBCBCB"/>
+        <path d="M255.118,171.732 L255.118,738.661 L226.772,738.661 L226.772,171.732 L255.118,171.732 z M254.118,172.732 L227.772,172.732 L227.772,737.661 L254.118,737.661 L254.118,172.732 z" fill="#000000"/>
+      </g>
+      <g>
+        <path d="M1105.512,171.732 L1133.858,171.732 L1133.858,738.661 L1105.512,738.661 L1105.512,171.732 z" fill="#CBCBCB"/>
+        <path d="M1133.858,171.732 L1133.858,738.661 L1105.512,738.661 L1105.512,171.732 L1133.858,171.732 z M1132.858,172.732 L1106.512,172.732 L1106.512,737.661 L1132.858,737.661 L1132.858,172.732 z" fill="#000000"/>
+      </g>
+      <g>
+        <path d="M255.118,738.661 L1105.512,738.661 L1105.512,767.008 L255.118,767.008 L255.118,738.661 z" fill="#CBCBCB"/>
+        <path d="M1105.512,738.661 L1105.512,767.008 L255.118,767.008 L255.118,738.661 L1105.512,738.661 z M1104.512,739.661 L256.118,739.661 L256.118,766.008 L1104.512,766.008 L1104.512,739.661 z" fill="#000000"/>
+      </g>
+    </g>
+    <g id="Corner_cubes">
+      <g>
+        <path d="M226.772,143.386 L255.118,143.386 L255.118,171.732 L226.772,171.732 L226.772,143.386 z" fill="#FF9937"/>
+        <path d="M255.118,143.386 L255.118,171.732 L226.772,171.732 L226.772,143.386 L255.118,143.386 z M254.118,144.386 L227.772,144.386 L227.772,170.732 L254.118,170.732 L254.118,144.386 z" fill="#000000"/>
+      </g>
+      <g>
+        <path d="M1105.512,143.386 L1133.858,143.386 L1133.858,171.732 L1105.512,171.732 L1105.512,143.386 z" fill="#FF9937"/>
+        <path d="M1133.858,143.386 L1133.858,171.732 L1105.512,171.732 L1105.512,143.386 L1133.858,143.386 z M1132.858,144.386 L1106.512,144.386 L1106.512,170.732 L1132.858,170.732 L1132.858,144.386 z" fill="#000000"/>
+      </g>
+      <g>
+        <path d="M226.772,738.661 L255.118,738.661 L255.118,767.008 L226.772,767.008 L226.772,738.661 z" fill="#FF9937"/>
+        <path d="M255.118,738.661 L255.118,767.008 L226.772,767.008 L226.772,738.661 L255.118,738.661 z M254.118,739.661 L227.772,739.661 L227.772,766.008 L254.118,766.008 L254.118,739.661 z" fill="#000000"/>
+      </g>
+      <g>
+        <path d="M1105.512,738.661 L1133.858,738.661 L1133.858,767.008 L1105.512,767.008 L1105.512,738.661 z" fill="#FF9937"/>
+        <path d="M1133.858,738.661 L1133.858,767.008 L1105.512,767.008 L1105.512,738.661 L1133.858,738.661 z M1132.858,739.661 L1106.512,739.661 L1106.512,766.008 L1132.858,766.008 L1132.858,739.661 z" fill="#000000"/>
+      </g>
+    </g>
+    <text transform="matrix(1, 0, 0, 1, 666.488, 128.386)">
+      <tspan x="-66.42" y="8" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">30cm beam</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 127.906, 413.504)">
+      <tspan x="-66.42" y="8" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">20cm beam</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 1233.417, 413.504)">
+      <tspan x="-66.42" y="8" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">20cm beam</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 694.835, 782.008)">
+      <tspan x="-66.42" y="8" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">30cm beam</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 164.257, 196.175)">
+      <tspan x="-37.548" y="-29.789" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">1x1cm </tspan>
+      <tspan x="-37.776" y="-0.789" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">corner </tspan>
+      <tspan x="-28.224" y="28.211" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">cube</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 1213.076, 196.175)">
+      <tspan x="-37.548" y="-29.789" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">1x1cm </tspan>
+      <tspan x="-37.776" y="-0.789" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">corner </tspan>
+      <tspan x="-28.224" y="28.211" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">cube</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 1184.73, 791.451)">
+      <tspan x="-37.548" y="-29.789" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">1x1cm </tspan>
+      <tspan x="-37.776" y="-0.789" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">corner </tspan>
+      <tspan x="-28.224" y="28.211" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">cube</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 164.257, 791.451)">
+      <tspan x="-37.548" y="-29.789" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">1x1cm </tspan>
+      <tspan x="-37.776" y="-0.789" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">corner </tspan>
+      <tspan x="-28.224" y="28.211" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">cube</tspan>
+    </text>
+    <path d="M283.965,200.58 L283.965,257.273" fill-opacity="0" stroke="#000000" stroke-width="10"/>
+    <path d="M1077.666,200.58 L1077.666,257.273" fill-opacity="0" stroke="#000000" stroke-width="10"/>
+    <text transform="matrix(1, 0, 0, 1, 338.814, 233.996)">
+      <tspan x="-18.144" y="-10.916" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">60° </tspan>
+      <tspan x="-43.776" y="18.084" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">bracket</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 338.814, 612.584)">
+      <tspan x="-37.548" y="-21" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">3x3cm </tspan>
+      <tspan x="-18.144" y="8" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">90° </tspan>
+      <tspan x="-43.776" y="37" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">bracket</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 1019.129, 612.584)">
+      <tspan x="-37.548" y="-21" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">3x3cm </tspan>
+      <tspan x="-18.144" y="8" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">90° </tspan>
+      <tspan x="-43.776" y="37" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">bracket</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 1019.129, 233.996)">
+      <tspan x="-18.144" y="-10.916" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">60° </tspan>
+      <tspan x="-43.776" y="18.084" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">bracket</tspan>
+    </text>
+    <path d="M283.965,654.124 L283.965,569.084" fill-opacity="0" stroke="#000000" stroke-width="10"/>
+    <path d="M1074.977,654.124 L1074.977,569.084" fill-opacity="0" stroke="#000000" stroke-width="10"/>
+    <text transform="matrix(1, 0, 0, 1, 680.316, 228.427)">
+      <tspan x="-205.572" y="-6.5" font-family="LucidaGrande-Bold" font-size="24" fill="#000000">←</tspan>
+      <tspan x="-181.572" y="-6.5" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000"> Brackets for upper cover arms </tspan>
+      <tspan x="181.572" y="-6.5" font-family="LucidaGrande-Bold" font-size="24" fill="#000000">→</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 680.316, 598.084)">
+      <tspan x="-216" y="-6.5" font-family="LucidaGrande-Bold" font-size="24" fill="#000000">←</tspan>
+      <tspan x="-192" y="-6.5" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000"> Brackets for mounting cross bar </tspan>
+      <tspan x="192" y="-6.5" font-family="LucidaGrande-Bold" font-size="24" fill="#000000">→</tspan>
+    </text>
+  </g>
+  <g id="Cross_bar">
+    <text transform="matrix(1, 0, 0, 1, 310.467, 1148.858)">
+      <tspan x="-37.548" y="-21" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">3x3cm </tspan>
+      <tspan x="-18.144" y="8" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">90° </tspan>
+      <tspan x="-43.776" y="37" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">bracket</tspan>
+    </text>
+    <path d="M255.618,1190.398 L255.618,1105.358" fill-opacity="0" stroke="#000000" stroke-width="10"/>
+    <text transform="matrix(1, 0, 0, 1, 990.782, 1148.858)">
+      <tspan x="-37.548" y="-21" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">3x3cm </tspan>
+      <tspan x="-18.144" y="8" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">90° </tspan>
+      <tspan x="-43.776" y="37" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">bracket</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 1160.86, 1007.78)">
+      <tspan x="-37.548" y="-21" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">3x3cm </tspan>
+      <tspan x="-18.144" y="8" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">90° </tspan>
+      <tspan x="-43.776" y="37" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">bracket</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 140.388, 1007.78)">
+      <tspan x="-37.548" y="-21" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">3x3cm </tspan>
+      <tspan x="-18.144" y="8" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">90° </tspan>
+      <tspan x="-43.776" y="37" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">bracket</tspan>
+    </text>
+    <path d="M1046.63,1190.398 L1046.63,1105.358" fill-opacity="0" stroke="#000000" stroke-width="10"/>
+    <g>
+      <path d="M198.425,1019.819 L226.772,1019.819 L226.772,1189.898 L198.425,1189.898 L198.425,1019.819 z" fill="#8EFDFF"/>
+      <path d="M226.772,1019.819 L226.772,1189.898 L198.425,1189.898 L198.425,1019.819 L226.772,1019.819 z M225.772,1020.819 L199.425,1020.819 L199.425,1188.898 L225.772,1188.898 L225.772,1020.819 z" fill="#000000"/>
+    </g>
+    <g>
+      <path d="M226.772,1019.819 L1077.165,1019.819 L1077.165,1048.165 L226.772,1048.165 L226.772,1019.819 z" fill="#8EFDFF"/>
+      <path d="M1077.165,1019.819 L1077.165,1048.165 L226.772,1048.165 L226.772,1019.819 L1077.165,1019.819 z M1076.165,1020.819 L227.772,1020.819 L227.772,1047.165 L1076.165,1047.165 L1076.165,1020.819 z" fill="#000000"/>
+    </g>
+    <g>
+      <path d="M1077.165,1019.819 L1105.512,1019.819 L1105.512,1189.898 L1077.165,1189.898 L1077.165,1019.819 z" fill="#8EFDFF"/>
+      <path d="M1105.512,1019.819 L1105.512,1189.898 L1077.165,1189.898 L1077.165,1019.819 L1105.512,1019.819 z M1104.512,1020.819 L1078.165,1020.819 L1078.165,1188.898 L1104.512,1188.898 L1104.512,1020.819 z" fill="#000000"/>
+    </g>
+    <g>
+      <path d="M226.772,1104.858 L198.425,1104.858 L198.425,1019.819 L283.465,1019.819 L283.465,1048.165 L226.772,1048.165 L226.772,1104.858 z" fill="url(#Pattern_1)"/>
+      <path d="M283.465,1019.819 L283.465,1048.165 L226.772,1048.165 L226.772,1104.858 L198.425,1104.858 L198.425,1019.819 L283.465,1019.819 z M282.465,1020.819 L199.425,1020.819 L199.425,1103.858 L225.772,1103.858 L225.772,1047.165 L282.465,1047.165 L282.465,1020.819 z" fill="#000000"/>
+    </g>
+    <g>
+      <path d="M1020.473,1048.166 L1020.473,1019.819 L1105.512,1019.819 L1105.512,1048.166 L1105.512,1048.166 L1105.512,1104.859 L1077.165,1104.859 L1077.165,1048.166 L1020.473,1048.166 z" fill="url(#Pattern_2)"/>
+      <path d="M1020.473,1048.166 L1020.473,1019.819 L1105.512,1019.819 L1105.512,1048.166 L1105.512,1048.166 L1105.512,1104.859 L1077.165,1104.859 L1077.165,1048.166 L1020.473,1048.166 z" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    </g>
+    <text transform="matrix(1, 0, 0, 1, 616.78, 1007.78)">
+      <tspan x="-66.42" y="8" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">30cm beam</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 111.336, 1177.858)">
+      <tspan x="-59.748" y="8" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">6cm beam</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 1188.501, 1177.858)">
+      <tspan x="-59.748" y="8" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">6cm beam</tspan>
+    </text>
+  </g>
+  <g id="Cross_bar_strut">
+    <g>
+      <path d="M1751.505,1134.512 L1777.331,1148.858 L1752.129,1162.858 L1457.899,1162.858 L1432.697,1148.858 L1458.523,1134.512 L1751.505,1134.512 z" fill="#CBCBCB"/>
+      <path d="M1751.505,1134.512 L1777.331,1148.858 L1752.128,1162.858 L1457.899,1162.858 L1432.696,1148.858 L1458.523,1134.512 L1751.505,1134.512 z M1751.246,1135.512 L1458.782,1135.512 L1434.756,1148.858 L1458.158,1161.858 L1751.869,1161.858 L1775.272,1148.858 L1751.246,1135.512 z" fill="#000000"/>
+    </g>
+    <text transform="matrix(1, 0, 0, 1, 1597.129, 1193.028)">
+      <tspan x="-66.42" y="8" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">20cm beam</tspan>
+    </text>
+    <g>
+      <path d="M1587.402,964.433 L1615.748,964.433 L1615.748,1134.512 L1587.402,1134.512 L1587.402,964.433 z" fill="#8EFDFF"/>
+      <path d="M1615.748,964.433 L1615.748,1134.512 L1587.402,1134.512 L1587.402,964.433 L1615.748,964.433 z M1614.748,965.433 L1588.402,965.433 L1588.402,1133.512 L1614.748,1133.512 L1614.748,965.433 z" fill="#000000"/>
+    </g>
+    <text transform="matrix(1, 0, 0, 1, 1700.874, 978.78)">
+      <tspan x="-59.748" y="8" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">6cm beam</tspan>
+    </text>
+    <g>
+      <path d="M1615.748,1162.858 L1530.709,1162.858 L1530.709,1134.512 L1587.402,1134.512 L1587.402,1077.819 L1615.748,1077.819 L1615.748,1162.858 z" fill="url(#Pattern_3)"/>
+      <path d="M1615.748,1077.819 L1615.748,1162.858 L1530.709,1162.858 L1530.709,1134.512 L1587.402,1134.512 L1587.402,1077.819 L1615.748,1077.819 z M1614.748,1078.819 L1588.402,1078.819 L1588.402,1135.512 L1531.709,1135.512 L1531.709,1161.858 L1614.748,1161.858 L1614.748,1078.819 z" fill="#000000"/>
+    </g>
+    <text transform="matrix(1, 0, 0, 1, 1522.98, 1073.38)">
+      <tspan x="-37.548" y="-26.431" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">3x3cm </tspan>
+      <tspan x="-18.144" y="2.569" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">90° </tspan>
+      <tspan x="-43.776" y="31.569" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">bracket</tspan>
+    </text>
+  </g>
+  <g id="Upper_arms">
+    <g>
+      <path d="M2053.57,48.729 L2067.743,73.278 L1576.768,356.743 L1562.595,332.194 L2053.57,48.729 z" fill="#5FFA80"/>
+      <path d="M2053.57,48.729 L2067.743,73.278 L1576.768,356.743 L1562.595,332.194 L2053.57,48.729 z M2053.204,50.095 L1563.961,332.56 L1577.134,355.377 L2066.377,72.912 L2053.204,50.095 z" fill="#000000"/>
+    </g>
+    <g>
+      <path d="M1587.402,283.465 L1587.402,567.939 L1573.228,593.454 L1559.055,567.94 L1559.055,283.465 L1587.402,283.465 z" fill="#CBCBCB"/>
+      <path d="M1587.401,283.464 L1587.401,567.939 L1573.228,593.454 L1559.055,567.94 L1559.055,283.464 L1587.401,283.464 z M1586.401,284.464 L1560.055,284.464 L1560.055,567.681 L1573.228,591.395 L1586.401,567.68 L1586.401,284.464 z" fill="#000000"/>
+    </g>
+    <text transform="matrix(1, 0, 0, 1, 1483.743, 444.159)">
+      <tspan x="-66.42" y="8" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">20cm beam</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 1500.41, 366.095)">
+      <tspan x="-18.144" y="-8.667" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">60° </tspan>
+      <tspan x="-43.776" y="20.333" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">bracket</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 1933.076, 253.493)">
+      <tspan x="-66.42" y="8" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">20cm beam</tspan>
+    </text>
+    <g>
+      <path d="M1559.055,350.774 L1559.055,294.081 L1587.402,294.081 L1587.402,318.042 L1646.999,283.465 L1661.102,308.013 L1587.402,350.774 L1559.055,350.774 z" fill="url(#Pattern_4)"/>
+      <path d="M1646.999,283.465 L1661.102,308.013 L1587.402,350.774 L1559.055,350.774 L1559.055,294.081 L1587.402,294.081 L1587.402,318.042 L1646.999,283.465 z M1646.632,284.834 L1587.903,318.907 L1586.402,319.778 L1586.402,295.081 L1560.055,295.081 L1560.055,349.774 L1587.132,349.774 L1659.739,307.648 L1646.632,284.834 z" fill="#000000"/>
+    </g>
+  </g>
+  <g id="Labels">
+    <text transform="matrix(1, 0, 0, 1, 328.532, 55)">
+      <tspan x="-271.536" y="17.5" font-family="HelveticaNeue-Bold" font-size="48" fill="#000000">Frame (front/back view)</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 1595.12, 107.229)">
+      <tspan x="-205.344" y="-11.5" font-family="HelveticaNeue-Bold" font-size="48" fill="#000000">Upper cover arms</tspan>
+      <tspan x="-120.384" y="46.5" font-family="HelveticaNeue-Bold" font-size="48" fill="#000000">(side view)</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 451.672, 912)">
+      <tspan x="-222.672" y="-11.5" font-family="HelveticaNeue-Bold" font-size="48" fill="#000000">Mounting cross bar</tspan>
+      <tspan x="-202.176" y="46.5" font-family="HelveticaNeue-Bold" font-size="48" fill="#000000">(top/bottom view)</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 1610.079, 889.508)">
+      <tspan x="-171.6" y="-11.5" font-family="HelveticaNeue-Bold" font-size="48" fill="#000000">Cross bar strut </tspan>
+      <tspan x="-120.384" y="46.5" font-family="HelveticaNeue-Bold" font-size="48" fill="#000000">(side view)</tspan>
+    </text>
+  </g>
+</svg>
